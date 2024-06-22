@@ -19,7 +19,7 @@ This is a Django-based web application that allows users to search for restauran
 
 ```bash
 git clone https://github.com/Rsquare925/search-restaurant.git
-cd restaurant-search
+cd search-restaurant
 python -m venv venv
 
 # Activate on Windows
