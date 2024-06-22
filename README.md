@@ -18,7 +18,7 @@ This is a Django-based web application that allows users to search for restauran
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/your_username/restaurant-search.git
+git clone https://github.com/Rsquare925/search-restaurant.git
 cd restaurant-search
 python -m venv venv
 
@@ -40,7 +40,7 @@ python manage.py runserver
 
 1. **Access the Application:**
 
-    - Open a web browser and navigate to `http://127.0.0.1:8000/`.
+    - Open a web browser and navigate to `http://127.0.0.1:8000/search`.
 
 2. **Search for Restaurants:**
 
@@ -50,8 +50,6 @@ python manage.py runserver
 
 3. **View Search Results:**
     - Restaurants matching the search query will display their names, locations, and dish prices.
-    - Click on individual restaurant listings to view more details.
-    - Navigate through different pages if multiple results are found.
 
 ## Screenshots
 
